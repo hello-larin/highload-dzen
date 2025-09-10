@@ -37,7 +37,7 @@
 - 500к коментариев ежедневно, но тогда DAU был 20М, а сейчас 31М => 750к [4]
 - 5 млрд часов проведено на сайте за год (2024) [6]
 - добавляется 1 млн авторов ежегодно [6]
-- время пользователй : 60% видео, 40% текстов [5]
+- время пользователй : 40% видео, 60% текстов [5]
 
 ## Ссылки
 
@@ -45,7 +45,7 @@
 2. https://zenstat.ru/stat/posts/?search=&sort=views&order=asc&offset=0&limit=50&type_post=card&date_from=2025-08-06&date_to=2025-09-04&period=30&post_text=&post_text_minus=&views_min=&views_max=&channel_subscribers_min=&channel_subscribers_max=&channel_publications_30days=&fast_load=1
 3. https://dzen.ru/about
 4. https://habr.com/ru/news/532670/
-5. https://yandex.ru/q/adagain/8563361538/
+5. https://dzen.ru/about/itogi2023
 6. https://dzen.ru/itogi-2024
 7. https://corp.vkcdn.ru/media/files/RUS_Results_Presentation_H1_2025.pdf
 8. https://hypestat.com/info/dzen.ru
