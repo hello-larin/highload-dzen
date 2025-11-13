@@ -351,6 +351,7 @@ L7 - HTTP Reverse proxy (Используем Nginx снаружи кубера)
 
 **Выбор СУБД (потаблично)**
 
+<img width="1308" height="1089" alt="image" src="https://github.com/user-attachments/assets/9133c9ec-fe94-4444-b887-7cf34ca7f478" />
 
 
 | **Название таблицы** | **СУБД**           | **Обоснование** |
