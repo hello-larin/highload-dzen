@@ -571,7 +571,7 @@ L7 - HTTP Reverse proxy (Используем Nginx снаружи кубера)
 
 ## 9. Схема проекта
 
-<img width="2724" height="4500" alt="image" src="https://github.com/user-attachments/assets/f585efa0-2a9f-4252-83f9-6f842f10e986" />
+<img width="2904" height="5240" alt="image" src="https://github.com/user-attachments/assets/1ecf3b98-cb42-495b-b40d-f04444fb5770" />
 
 
 ## 10. Обеспечение надёжности
